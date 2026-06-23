@@ -1,0 +1,8 @@
+INFO: User login successful
+WARNING: Failed login attempt
+WARNING: Failed login attempt
+ERROR: Database connection failed
+INFO: User logout
+ERROR: Unauthorized file access
+WARNING: Failed login attempt
+INFO: Session ended
